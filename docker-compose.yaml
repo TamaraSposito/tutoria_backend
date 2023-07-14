@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  mssql-server:
+    image: biarms/mysql:5.7
+    restart: always
+    container_name: mysql_server
+    environment:
+      - MYSQL_DATABASE=tutoring
+      - MYSQL_ROOT_PASSWORD=mauFJcuf5dhRMQrjj
+    ports:
+      - "3306:3306"
