@@ -9,7 +9,7 @@ _Executar o comando "docker compose up -d" para subir o banco de dados local._
 _Executar o comando "npm seed"_
 
 ## Swagger
-http://localhost:3000/api-docs
+http://143.198.72.61/api-docs
 
 ## Insomnia
 _Existe uma pasta "insomnia" com as collections para serem importadas.
