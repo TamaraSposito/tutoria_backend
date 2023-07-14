@@ -17,7 +17,7 @@ _Existe uma pasta "insomnia" com as collections para serem importadas.
 _Plugins: insomnia-plugin-path-parameters_  
 
 ## Figma
-https://www.figma.com/file/Qyx8rsBym9ddKJHQ5pan4m/tutoring?node-id=0%3A1&t=HwH91ebIxRa0dFGv-1
+https://www.figma.com/file/RsJvmUXavZp2m8z7Xs2a59/Tutoria_TCC?type=design&node-id=0%3A1&mode=design&t=uvBHgFYsQ58ex8Dh-1
 
 
 
